@@ -6,8 +6,8 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 AutoML + AI Data Assistant")
-st.subheader("Train ML Models & Interact with Your Data Using AI")
+st.title("🤖 AutoML Application")
+st.subheader("Train ML Models &  Make Predictions")
 
 st.write("""
 ---
