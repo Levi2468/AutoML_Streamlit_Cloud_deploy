@@ -35,23 +35,7 @@ The application will:
 - Allow removal of unnecessary columns
 
 ---
-
-## 🤖 page 2 : AI Dataset Assistant 
-
-Ask questions about your dataset using natural language.
-
-Examples:
-- What is the average age?
-- Which column has most missing values?
-- What is the maximum income?
-- How many rows are there?
-- Describe numeric features
-
-
-The assistant uses a cloud-based LLM (HuggingFace API) to provide intelligent insights without heavy computation.
-
----
-## 🧹 page 3: Automatic Preprocessing
+## 🧹 page 2: Automatic Preprocessing
 
 The system automatically:
 
@@ -65,7 +49,7 @@ The system automatically:
 
 ---
 
-## 🏋️ page 4:Model Training
+## 🏋️ page 3:Model Training
 
 The system trains optimized ML models including:
 
@@ -82,7 +66,7 @@ Evaluation Metrics:
 
 ---
 
-## 🎯 page 5: Prediction
+## 🎯 page 4: Prediction
 
 After training:
 
