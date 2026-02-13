@@ -1,12 +1,12 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="AutoML + AI Data Assistant",
+    page_title="AutoML Application",
     page_icon="🤖",
     layout="centered"
 )
 
-st.title("🤖 AutoML Application")
+st.title("🤖 AutoML")
 st.subheader("Train ML Models &  Make Predictions")
 
 st.write("""
